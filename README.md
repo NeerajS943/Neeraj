@@ -52,7 +52,7 @@ Plan: To create a suitable character for the I-LMS and complete documentation fo
 
 Technologies: React JS, Canva.
 
-Work Description: This week I have been assigned with the task to create a character for the LMS page. So I have worked on create=ing characters using canva. Also apart from that I have helped other team(Nirmai, Manish) in creating a pagination bar for the LMS.
+Work Description: This week I have been assigned with the task to create a character for the LMS page. So I have worked on creating characters using canva. Also apart from that I have helped other team(Nirmai, Manish) in creating a pagination bar for the LMS.
 ![spr4](https://user-images.githubusercontent.com/70902457/120306848-efbc4f00-c2ef-11eb-8870-04da2315e66d.PNG)
 
 
