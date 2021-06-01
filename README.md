@@ -42,6 +42,17 @@ Team members: Manish,Nirmai, Neeraj
 Work Description: Integrated sprint 2 plan of both teams. We created a progress bar by which user can understand how much the course has completed it has done by using React component Progress bar. It changes Dynamically from user to user based on theor completion of their learning Objectives. Later we pushed our code into Github branch that we created for this Sprint.
 ![ilms1](https://user-images.githubusercontent.com/70902457/119928059-72fc3e80-bf98-11eb-8d72-52c6f3d2a01a.PNG)
 
+### Sprint-4
+-Duration: 24 May,2021 to 29 May,2021
+
+Plan: To create a suitable character for the I-LMS and complete documentation for previous code.
+
+Technologies: React JS, Canva.
+
+Work Description: This week I have been assigned with the task to create a character for the LMS page. So I have worked on create=ing characters using canva. Also apart from that I have helped other team(Nirmai, Manish) in creating a pagination bar for the LMS.
+![spr4](https://user-images.githubusercontent.com/70902457/120306848-efbc4f00-c2ef-11eb-8870-04da2315e66d.PNG)
+
+
 
 ### Markdown
 
