@@ -16,6 +16,7 @@ Technologies: Google Slides, Just in Mind Application, Paint.
 Team members : Manish, Nirmai, Neeraj, Satyanarayana, Santhosh, Karthik
 
 Work Description: Discussed with team members on sketching of the prototype. We all worked on paint for sketching our idea. Presented the sketch to mentor using Google Slides, then by using Just in Mind application we build our prototype for the website. We Split into Two teams.
+
 ![Image20210601162441](https://user-images.githubusercontent.com/70902457/120312302-2bf2ae00-c2f6-11eb-8028-91454742bd64.png)
 
 ### Sprint-2
